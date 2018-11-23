@@ -2,6 +2,11 @@ body {
     background-image: url("images/gravel.png");
 }
 
+h1 {
+    color: teal;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+}
 footer {
     text-align: center;
     background-color: #525252;
@@ -26,9 +31,11 @@ footer {
 
 .navbar-brand{
     background-color: teal;
-    width: 150px;
+    width: 170px;
     margin-left: 120px;
     margin-bottom: -20px;
+    font-family: 'Times New Roman';
+    font-size: 24px;
     
 }
 
